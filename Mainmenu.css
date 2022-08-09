@@ -1,0 +1,15 @@
+li{
+    /* float: left; */
+    margin-left: 30px;
+    margin: 10px solid red;
+    padding: 20px;
+    display: inline-block;
+   
+}
+nav{
+    height: 70px;
+    width: 100%;
+    border: 2px solid red;
+    background-color: aqua;
+}
+
